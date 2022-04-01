@@ -62,8 +62,7 @@ Unfortunately, I was sick for a very long time so I could not spend enough time 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+[My 5-minute Interview Recording] https://www.loom.com/share/a211412e1394485492421941703fcb71?sharedAppSource=personal_library 
 
 ## License
 
